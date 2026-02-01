@@ -1,0 +1,65 @@
+{
+  "skipped_videos": [],
+  "reports": {
+    "2322": {
+      "rows_in": 20,
+      "rows_swapped": 0,
+      "rows_clamped": 0,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 0
+    },
+    "2293": {
+      "rows_in": 16,
+      "rows_swapped": 0,
+      "rows_clamped": 0,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 1
+    },
+    "1245": {
+      "rows_in": 21,
+      "rows_swapped": 0,
+      "rows_clamped": 0,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 0
+    },
+    "2107": {
+      "rows_in": 55,
+      "rows_swapped": 0,
+      "rows_clamped": 3,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 19
+    },
+    "1206": {
+      "rows_in": 19,
+      "rows_swapped": 1,
+      "rows_clamped": 1,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 2
+    },
+    "1087": {
+      "rows_in": 18,
+      "rows_swapped": 0,
+      "rows_clamped": 0,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 0
+    },
+    "1148": {
+      "rows_in": 18,
+      "rows_swapped": 0,
+      "rows_clamped": 0,
+      "rows_dropped_invalid": 0,
+      "overlaps_clipped": 0
+    }
+  },
+  "label_counts": {
+    "Wound creation": 232,
+    "Capsulorhexis": 220,
+    "Hydrodissection": 134,
+    "Phacoemulsification": 703,
+    "SLM removal": 367,
+    "Intraocular lens implantation": 252,
+    "Viscoelastic removal": 142,
+    "Wound closure": 269
+  },
+  "total_labeled_frames": 2319
+}

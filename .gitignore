@@ -20,6 +20,9 @@ data/*
 !data/cataract_coach_clean_v2.csv
 !data/phase_dataset_v3/
 !data/phase_dataset_v3/labels.csv
+# Local-only videos (too large for GitHub)
+data/phase_dataset_v3/videos/
+data/phase_dataset_v3/videos/**
 outputs/
 runs/
 

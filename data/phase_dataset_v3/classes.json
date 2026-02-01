@@ -1,0 +1,10 @@
+{
+  "Capsulorhexis": 0,
+  "Hydrodissection": 1,
+  "Intraocular lens implantation": 2,
+  "Phacoemulsification": 3,
+  "SLM removal": 4,
+  "Viscoelastic removal": 5,
+  "Wound closure": 6,
+  "Wound creation": 7
+}
