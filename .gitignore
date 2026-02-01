@@ -1,0 +1,36 @@
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, outputs, and runs (large/generated)
+data/*
+!data/cataract_coach_clean_v2.csv
+!data/phase_dataset_v3/
+!data/phase_dataset_v3/labels.csv
+outputs/
+runs/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# PowerPoint artifacts (excluded by request)
+
+
+# OS files
+.DS_Store
+ppt.md
